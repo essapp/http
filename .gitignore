@@ -1,0 +1,10 @@
+#IDE
+/.vscode
+*.code-workspace
+#JAVA DIR
+/target
+.project
+.classpath
+/.settings
+# MISC
+.DS_Store
